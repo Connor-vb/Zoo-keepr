@@ -1,0 +1,25 @@
+{
+  "name": "zoo-keepr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Connor-vb/Zoo-keepr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Connor-vb/Zoo-keepr/issues"
+  },
+  "homepage": "https://github.com/Connor-vb/Zoo-keepr#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "jest": "^27.4.7"
+  }
+}
